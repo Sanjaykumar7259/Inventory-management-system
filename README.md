@@ -31,7 +31,7 @@ The project is developed using **HTML** and **CSS**, with some basic **animation
    ```bash
   cd inventory-management-system
 
-3.Folder Structure
+3.Folder Structure:
 inventory-management-system/
 │
 ├── index.html        # Main page of the project

@@ -30,6 +30,7 @@ The project is developed using **HTML** and **CSS**, with some basic **animation
 2.Navigate to the project folder:  
    ```bash
   cd inventory-management-system
+
 3.Folder Structure
 inventory-management-system/
 │

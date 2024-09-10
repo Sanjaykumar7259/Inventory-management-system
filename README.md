@@ -31,7 +31,7 @@ The project is developed using **HTML** and **CSS**, with some basic **animation
    gh repo clone Sanjaykumar7259/Inventory-management-system
 2.Navigate to the project folder:  
    ```bash
-  cd inventory-management-system 
+   cd inventory-management-system 
 
 
 

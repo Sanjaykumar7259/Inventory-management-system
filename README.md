@@ -30,7 +30,14 @@ The project is developed using **HTML** and **CSS**, with some basic **animation
 2.Navigate to the project folder:  
    ```bash
   cd inventory-management-system
-  
+3.Folder Structure
+inventory-management-system/
+│
+├── index.html        # Main page of the project
+├── product.html      # Product detail page
+├── style.css         # Main CSS file for styling
+├── images/           # Folder containing all product images and assets
+└── README.md         # Project README file
 
    
 

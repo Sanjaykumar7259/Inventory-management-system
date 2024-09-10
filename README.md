@@ -26,9 +26,10 @@ The project is developed using **HTML** and **CSS**, with some basic **animation
 
 1. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/yourusername/inventory-management-system.git
+gh repo clone Sanjaykumar7259/Inventory-management-system
+2.Navigate to the project folder:  
+   ```bash
 
-2.Navigate to the project folder:   
   cd inventory-management-system
   
 
